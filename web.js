@@ -1,5 +1,5 @@
-var hello = new Buffer(fs.readFileSync('index.html'));
-var hello2 = hello.toString('utf8');
+/*var hello = new Buffer(fs.readFileSync('index.html'));
+var hello2 = hello.toString('utf8');*/
 
 var express = require('express');
 
